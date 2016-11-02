@@ -3,11 +3,12 @@
     "version": "2.6.3",
     "main": "./index.js",
     "dependencies": {
-        "double-ended-queue": "^2.1.0-0",
-        "redis-commands": "^1.2.0",
-        "redis-parser": "^2.0.0"
+        
     },
     "devDependencies": {
+        "double-ended-queue": "^2.1.0-0",
+        "redis-commands": "^1.2.0",
+        "redis-parser": "^2.0.0",
         "bluebird": "^3.0.2",
         "coveralls": "^2.11.2",
         "intercept-stdout": "~0.1.2",
